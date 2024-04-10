@@ -1,4 +1,6 @@
 Algoritmo "Progama de Cálculos"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 //progama desenvolvido para facilitar alguns cálculos
 Var
@@ -13,6 +15,7 @@ menu:inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("Esse projeto está dentro do github!")
 escreval("### Progama de Cálculos ###")
 escreval("")
 
